@@ -22,8 +22,8 @@ export default function KioskShell({
   >
     {/* 1. Entête de la Borne (Fixe) */}
     <div className="bg-navy text-white px-5 py-3 flex items-center justify-between text-sm shrink-0">
-      <span className="font-semibold">Borne #04</span>
-      <span className="opacity-70">Client 04 · FR</span>
+      <span className="font-semibold">Smartzone</span>
+      <span className="opacity-70">FR</span>
     </div>
 
     {/* 2. Indicateur d'étape (Fixe) */}
