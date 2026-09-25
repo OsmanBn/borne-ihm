@@ -22,7 +22,7 @@ export default function KioskShell({
   >
     {/* 1. Entête de la Borne (Fixe) */}
     <div className="bg-navy text-white px-5 py-3 flex items-center justify-between text-sm shrink-0">
-      <span className="font-semibold">Smartzone</span>
+      <span className="font-semibold">SOCADEL Smartzone</span>
       <span className="opacity-70">FR</span>
     </div>
 
