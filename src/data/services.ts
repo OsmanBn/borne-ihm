@@ -47,7 +47,6 @@ export const services: Service[] =[
     libelle: "Agence en ligne (MySocadel)",
     description: "Créez votre compte et gérez vos abonnements en ligne",
     icon: "👤",
-    badge: "NOUVEAU",
     urlApplication: "#",
   },
   {
@@ -62,7 +61,6 @@ export const services: Service[] =[
     libelle: "Facture digitale",
     description: "Abonnez-vous pour recevoir vos factures par e-mail ou SMS",
     icon: "📧",
-    badge: "ÉCO",
     urlApplication: "#",
   },
   {
@@ -77,7 +75,6 @@ export const services: Service[] =[
     libelle: "Incident technique",
     description: "Déclarez une panne ou un danger sur le réseau électrique",
     icon: "⚠️",
-    badge: "URGENT",
     urlApplication: "#",
   },
   {
@@ -92,7 +89,6 @@ export const services: Service[] =[
     libelle: "Mise à jour des données",
     description: "Enregistrez vos informations (NIU, CNI, contrat, compteur)",
     icon: "📝",
-    badge: "IMPORTANT",
     urlApplication: "#",
   },
   {
@@ -100,7 +96,6 @@ export const services: Service[] =[
     libelle: "Live Chat",
     description: "Discutez en direct avec un de nos téléconseillers",
     icon: "💬",
-    badge: "EN LIGNE",
     urlApplication: "#",
   },
   {
@@ -108,7 +103,6 @@ export const services: Service[] =[
     libelle: "Lumi (IA Socadel)",
     description: "Posez vos questions à notre assistant virtuel intelligent",
     icon: "🤖",
-    badge: "IA",
     urlApplication: "#",
   }
 ];
